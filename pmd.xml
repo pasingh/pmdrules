@@ -7,7 +7,7 @@
 	This ruleset checks my code for bad stuff
   </description>
   
-  <rule ref="/rulesets/java/basic.xml">
+  <rule ref="rulesets/basic.xml">
 	<exclude name="AvoidThreadGroup"/>
   </rule>
 </ruleset>
