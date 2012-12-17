@@ -9,5 +9,6 @@
   
   <rule ref="rulesets/basic.xml">
 	<exclude name="AvoidThreadGroup"/>
+	<exclude name="CollapsibleIfStatements"/>
   </rule>
 </ruleset>
